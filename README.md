@@ -1,20 +1,23 @@
 # Student Score Prediction
 
-## AI & Machine Learning Internship Project
+## AI & Machine Learning Internship
 
-This repository contains my work for the **AI & Machine Learning Internship**. The project aims to build a Machine Learning model that predicts a student's score based on the number of study hours using **Linear Regression**.
+Welcome to my AI & Machine Learning Internship repository. This repository documents my daily learning, tasks, and project development throughout the internship.
+
+The primary goal of this internship is to build a **Student Score Prediction** model using **Machine Learning (Linear Regression)** while strengthening my skills in Python programming, data analysis, data visualization, and machine learning.
 
 ---
 
 ## 📌 Project Objective
 
-The objective of this project is to:
+This internship project aims to:
 
-- Learn the fundamentals of Artificial Intelligence and Machine Learning.
-- Understand Python programming and data analysis.
-- Explore data preprocessing and visualization techniques.
-- Build and evaluate a Machine Learning model.
-- Predict student scores based on study hours.
+- Build a strong foundation in Python programming.
+- Understand the fundamentals of Artificial Intelligence and Machine Learning.
+- Perform data analysis using NumPy and Pandas.
+- Visualize data using Matplotlib.
+- Develop and evaluate a Machine Learning model.
+- Predict student scores based on study hours using Linear Regression.
 
 ---
 
@@ -26,94 +29,54 @@ The objective of this project is to:
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
-- Git & GitHub
+- Git
+- GitHub
 - Visual Studio Code
-
----
-
-## 📂 Project Structure
-
-```
-Student-Score-Prediction
-│
-├── dataset/
-├── notebook/
-│   └── Student_Score_Prediction.ipynb
-├── screenshots/
-├── hello.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
-## 🚀 Day 1 Progress
-
-- ✅ Development environment setup
-- ✅ Python installed and configured
-- ✅ VS Code configured
-- ✅ Git and GitHub configured
-- ✅ Virtual environment created
-- ✅ First Python program executed
-- ✅ Project repository created
-
----
-
-## ▶️ How to Run
-
-### Clone the repository
-
-```bash
-git clone https://github.com/NeethuSuresh72/Student-Score-Prediction.git
-```
-
-### Move into the project folder
-
-```bash
-cd Student-Score-Prediction
-```
-
-### Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the first Python program
-
-```bash
-python hello.py
-```
 
 ---
 
 ## 📅 Internship Progress
 
-- ✅ Day 1 – Environment Setup
-- ⏳ Day 2 – Python Basics
-- ⏳ Day 3 – NumPy
-- ⏳ Day 4 – Pandas
-- ⏳ Day 5 – Data Cleaning
-- ⏳ Day 6 – Data Visualization
-- ⏳ Day 7 – Machine Learning Basics
-- ⏳ Day 8 – Build the Model
-- ⏳ Day 9 – Prediction
-- ⏳ Day 10 – Model Evaluation
-- ⏳ Day 11 – Prediction App
-- ⏳ Day 12 – Project Improvement
-- ⏳ Day 13 – GitHub Upload
-- ⏳ Day 14 – Final Submission
+| Day | Topic | Status |
+|------|-----------------------------|--------|
+| Day 1 | Environment Setup | ✅ Completed |
+| Day 2 | Python Basics | ⏳ Pending |
+| Day 3 | NumPy | ⏳ Pending |
+| Day 4 | Pandas | ⏳ Pending |
+| Day 5 | Data Cleaning | ⏳ Pending |
+| Day 6 | Data Visualization | ⏳ Pending |
+| Day 7 | Machine Learning Basics | ⏳ Pending |
+| Day 8 | Model Building | ⏳ Pending |
+| Day 9 | Prediction | ⏳ Pending |
+| Day 10 | Model Evaluation | ⏳ Pending |
+| Day 11 | Prediction Application | ⏳ Pending |
+| Day 12 | Project Enhancement | ⏳ Pending |
+| Day 13 | Documentation & GitHub | ⏳ Pending |
+| Day 14 | Final Project Submission | ⏳ Pending |
 
 ---
 
-## 👩‍💻 Author
+## 📂 Repository Structure
+
+```
+Student-Score-Prediction
+│
+├── Day-01/
+│   ├── README.md
+│   └── hello.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+---
+
+## 🚀 Author
 
 **Neethu Suresh**
 
 B.Tech Computer Science & Engineering
-
-AI & Machine Learning Intern
 
 GitHub: https://github.com/NeethuSuresh72
 
@@ -121,4 +84,4 @@ GitHub: https://github.com/NeethuSuresh72
 
 ## 📌 Status
 
-🚧 Project is currently under development as part of the AI & Machine Learning Internship.
+🚧 This repository is continuously updated throughout my AI & Machine Learning Internship.
