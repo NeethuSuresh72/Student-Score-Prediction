@@ -40,7 +40,7 @@ This internship project aims to:
 | Day | Topic | Status |
 |------|-----------------------------|--------|
 | Day 1 | Environment Setup | ✅ Completed |
-| Day 2 | Python Basics | ⏳ Pending |
+| Day 2 | Python Basics | ✅ Completed |
 | Day 3 | NumPy | ⏳ Pending |
 | Day 4 | Pandas | ⏳ Pending |
 | Day 5 | Data Cleaning | ⏳ Pending |
