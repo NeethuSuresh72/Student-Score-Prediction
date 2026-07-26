@@ -42,7 +42,7 @@ This internship project aims to:
 | Day 1 | Environment Setup | ✅ Completed |
 | Day 2 | Python Basics | ✅ Completed |
 | Day 3 | NumPy | ✅ Completed |
-| Day 4 | Pandas | ⏳ Pending |
+| Day 4 | Pandas | ✅ Completed |
 | Day 5 | Data Cleaning | ⏳ Pending |
 | Day 6 | Data Visualization | ⏳ Pending |
 | Day 7 | Machine Learning Basics | ⏳ Pending |
