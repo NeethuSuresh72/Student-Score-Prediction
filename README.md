@@ -43,7 +43,7 @@ This internship project aims to:
 | Day 2 | Python Basics | ✅ Completed |
 | Day 3 | NumPy | ✅ Completed |
 | Day 4 | Pandas | ✅ Completed |
-| Day 5 | Data Cleaning | ⏳ Pending |
+| Day 5 | Data Cleaning | ✅ Completed |
 | Day 6 | Data Visualization | ⏳ Pending |
 | Day 7 | Machine Learning Basics | ⏳ Pending |
 | Day 8 | Model Building | ⏳ Pending |
