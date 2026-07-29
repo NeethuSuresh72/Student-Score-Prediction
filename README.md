@@ -45,7 +45,7 @@ This internship project aims to:
 | Day 4 | Pandas | ✅ Completed |
 | Day 5 | Data Cleaning | ✅ Completed |
 | Day 6 | Data Visualization | ✅ Completed |
-| Day 7 | Machine Learning Basics | ⏳ Pending |
+| Day 7 | Machine Learning Basics | ✅ Completed |
 | Day 8 | Model Building | ⏳ Pending |
 | Day 9 | Prediction | ⏳ Pending |
 | Day 10 | Model Evaluation | ⏳ Pending |
