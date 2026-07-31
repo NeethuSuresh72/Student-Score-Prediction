@@ -47,7 +47,7 @@ This internship project aims to:
 | Day 6 | Data Visualization | ✅ Completed |
 | Day 7 | Machine Learning Basics | ✅ Completed |
 | Day 8 | Model Building | ✅ Completed |
-| Day 9 | Prediction | ⏳ Pending |
+| Day 9 | Prediction | ✅ Completed |
 | Day 10 | Model Evaluation | ⏳ Pending |
 | Day 11 | Prediction Application | ⏳ Pending |
 | Day 12 | Project Enhancement | ⏳ Pending |
