@@ -51,7 +51,7 @@ This internship project aims to:
 | Day 10 | Model Evaluation | ✅ Completed |
 | Day 11 | Prediction Application | ✅ Completed |
 | Day 12 | Project Enhancement | ✅ Completed|
-| Day 13 | Documentation & GitHub | ⏳ Pending |
+| Day 13 | Documentation & GitHub | ✅ Completed |
 | Day 14 | Final Project Submission | ⏳ Pending |
 
 ---
